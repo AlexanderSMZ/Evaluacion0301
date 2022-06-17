@@ -12,6 +12,7 @@ package vista;
 public class Evaluacion0301 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        var v= new JugadorVentana("Registro de jugadores");
+        v.setVisible(true);
     }
 }

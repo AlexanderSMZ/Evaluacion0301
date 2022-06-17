@@ -61,9 +61,4 @@ public class Jugador {
                 + ", disciplina=" + disciplina + ", posicion=" + posicion + '}';
     }
 
-    
-        
-
-    
-    
 }
