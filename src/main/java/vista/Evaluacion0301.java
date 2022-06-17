@@ -12,7 +12,7 @@ package vista;
 public class Evaluacion0301 {
 
     public static void main(String[] args) {
-        var v= new JugadorVentana("Registro de jugadores");
-        v.setVisible(true);
+        //var v= new JugadorVentana("Registro de jugadores");
+        //v.setVisible(true);
     }
 }
